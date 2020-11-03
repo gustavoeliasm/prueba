@@ -5,6 +5,10 @@
 		},
 		{
 			"path": "..\\java"
+		},
+		{
+			"name": "DO101-apps",
+			"path": "..\\fork_DO101\\DO101-apps"
 		}
 	]
 }
